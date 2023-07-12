@@ -1,11 +1,20 @@
 # assemble-virus-and-defend
 厦门大学2021级人工智能系汇编语言大作业
+
 Virus, kill and defend virus file in assemble language.用汇编语言写成的病毒，杀毒和防护文件
+
+由厦门大学2021级本科生马承乾，连国鑫，金为轩，李葳骏，李聪，李亚轩合作完成
+
 病毒文件：可以感染同一文件夹下的所有exe文件，是所有exe文件都在正常运行功能之前输出一段病毒信息，具有传染性。
+
 杀毒文件：运行以后可以杀死同一文件夹下所有带病毒的exe文件，使其恢复正常功能。
+
 防护文件：一颗防护的种子，运行该文件以后，再运行病毒文件时会立刻输出病毒提示信息，随后将病毒杀死。使用内存驻留技术实现。
+
 本项目中包括对virus, kill, defend文件的源代码和对代码的详细解释。
+
 效果如下：
+
 # virus文件（myinfect.exe文件）：
 ![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/4d9c4f38-fcc1-4971-b61f-e0b913d62f60)
 ![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/965263ca-bc6d-4fcd-b2d9-4dc1a0ae94e9)
