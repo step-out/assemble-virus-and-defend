@@ -9,6 +9,7 @@ Virus, kill and defend virus file in assemble language.用汇编语言写成的�
 # virus文件（myinfect.exe文件）：
 ![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/4d9c4f38-fcc1-4971-b61f-e0b913d62f60)
 ![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/965263ca-bc6d-4fcd-b2d9-4dc1a0ae94e9)
+
 感染成功，且不影响原程序的功能，也不会重复感染。
 # kill文件：
 ![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/f150c3d0-a4b3-4e05-a31d-3cfc7f7940e1)
