@@ -18,3 +18,4 @@ Virus, kill and defend virus file in assemble language.用汇编语言写成的�
 # 使用方法：
 使用dosbox软件，用debug.exe将asm文件编译为obj文件，再用link.exe链接为exe文件；
 或者vscode中的masm插件。
+更多说明见实验报告，其中有包含流程图，程序思路，结果示范在内的极其详细的说明。
