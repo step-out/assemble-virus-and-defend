@@ -5,3 +5,12 @@ Virus, kill and defend virus file in assemble language.用汇编语言写成的�
 杀毒文件：运行以后可以杀死同一文件夹下所有带病毒的exe文件，使其恢复正常功能。
 防护文件：一颗防护的种子，运行该文件以后，再运行病毒文件时会立刻输出病毒提示信息，随后将病毒杀死。使用内存驻留技术实现。
 本项目中包括对virus, kill, defend文件的源代码和对代码的详细解释。
+效果如下：
+virus文件（myinfect.exe文件）：
+![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/4d9c4f38-fcc1-4971-b61f-e0b913d62f60)
+![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/965263ca-bc6d-4fcd-b2d9-4dc1a0ae94e9)
+感染成功，且不影响原程序的功能，也不会重复感染。
+kill文件：
+![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/f150c3d0-a4b3-4e05-a31d-3cfc7f7940e1)
+defend文件：
+![image](https://github.com/malaozei/assemble-virus-and-defend/assets/94264539/9f0f8042-154b-4252-90d0-72d71ceb2458)
